@@ -1,2 +1,0 @@
-# StarMatchGame
-Created with CodeSandbox
