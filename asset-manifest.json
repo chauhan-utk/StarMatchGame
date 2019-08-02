@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StarMatchGame/static/css/main.69ab3ecf.chunk.css",
+    "main.js": "/StarMatchGame/static/js/main.4fa2dc80.chunk.js",
+    "main.js.map": "/StarMatchGame/static/js/main.4fa2dc80.chunk.js.map",
+    "runtime~main.js": "/StarMatchGame/static/js/runtime~main.ff845727.js",
+    "runtime~main.js.map": "/StarMatchGame/static/js/runtime~main.ff845727.js.map",
+    "static/js/2.c2695c00.chunk.js": "/StarMatchGame/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/StarMatchGame/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/StarMatchGame/index.html",
+    "precache-manifest.0a62f2f3ec897788d35fe10a6dab42d8.js": "/StarMatchGame/precache-manifest.0a62f2f3ec897788d35fe10a6dab42d8.js",
+    "service-worker.js": "/StarMatchGame/service-worker.js",
+    "static/css/main.69ab3ecf.chunk.css.map": "/StarMatchGame/static/css/main.69ab3ecf.chunk.css.map"
+  }
+}
